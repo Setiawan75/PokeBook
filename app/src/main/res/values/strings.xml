@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokeBook</string>
+    <string name="start">Start</string>
+    <string name="search_pokemon">Search Pokemon</string>
+    <string name="pokemon_not_found">Pokemon not found</string>
+    <string name="abilities">Abilities</string>
+</resources>
